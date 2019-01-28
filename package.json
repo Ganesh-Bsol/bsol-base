@@ -1,6 +1,6 @@
 {
   "name": "react-native-bsol-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Essential cross-platform UI components for React Native",
   "main": "src/index.js",
   "author": "Ganesh",
